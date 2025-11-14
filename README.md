@@ -1,13 +1,13 @@
 # PHY432 Resources
 
 The repository contains data and code to be used during the
-[PHY432 Computational Methods in Physics](https://py4phy.github.io/PHY432/about/)
+[PHY432 Computational Methods in Physics](https://pyforphy.github.io/PHY432/about/)
 class.
 
 You only need to **clone the repository** once:
 
 ```
-git clone https://github.com/Py4Phy/PHY432-resources.git
+git clone https://github.com/PyforPhy/PHY432-resources.git
 ```
 
 At any later time, **pull** in the latest updates from inside the
