@@ -1,5 +1,5 @@
 # plot motion with constant acceleration
-# https://py4phy.github.io/PHY432/modules/python/HelloWorld/#basic-plotting
+# https://pyforphy.github.io/PHY432/modules/python/HelloWorld/#basic-plotting
 
 import matplotlib.pyplot as plt
 
