@@ -1,5 +1,5 @@
 # function module
-# https://py4phy.github.io/PHY432/modules/python/functions/#exercise-create-functions
+# https://pyforphy.github.io/PHY432/modules/python/functions/#exercise-create-functions
 
 def heaviside(x):
    """Heaviside step function"""
