@@ -1,5 +1,5 @@
 # plotting the Heaviside function
-# https://py4phy.github.io/PHY432/modules/python/functions/#exercise-plotting-the-step-function
+# https://pyforphy.github.io/PHY432/modules/python/functions/#exercise-plotting-the-step-function
 
 import matplotlib.pyplot as plt
 
