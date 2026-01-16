@@ -2,7 +2,7 @@ Checklist for installation
 ==========================
 
 Check everything with [x] when the test passes (see
-https://py4phy.github.io/PHY432/modules/setup_unix/environment_installation/#testing
+https://pyforphy.github.io/PHY432/modules/setup_unix/environment_installation/#testing
 )
 
 
