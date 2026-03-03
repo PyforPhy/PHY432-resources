@@ -1,5 +1,5 @@
 # ODE solvers for lesson 12 ODE Applications
-# Copyright (c) 2016-2019 Oliver Beckstein.
+
 # License: BSD-3 clause
 
 
