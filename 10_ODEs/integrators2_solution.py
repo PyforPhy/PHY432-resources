@@ -1,5 +1,4 @@
 # integrators for lesson 10 ODEs
-# Copyright (c) 2016-2021 Oliver Beckstein.
 # License: BSD-3 clause
 
 # Integrating Newton's Equations of Motions in 2D... nD
